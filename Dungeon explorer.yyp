@@ -1,6 +1,21 @@
 {
   "resources": [
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"spr_zoimbie_hold","path":"sprites/spr_zoimbie_hold/spr_zoimbie_hold.yy",},"order":1,},
+    {"id":{"name":"spr_zoimbie_stand","path":"sprites/spr_zoimbie_stand/spr_zoimbie_stand.yy",},"order":5,},
+    {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":8,},
+    {"id":{"name":"spr_zoimbie_silencer","path":"sprites/spr_zoimbie_silencer/spr_zoimbie_silencer.yy",},"order":4,},
+    {"id":{"name":"spr_player_silencer","path":"sprites/spr_player_silencer/spr_player_silencer.yy",},"order":4,},
+    {"id":{"name":"spr_player_machine","path":"sprites/spr_player_machine/spr_player_machine.yy",},"order":2,},
+    {"id":{"name":"spr_zoimbie_reload","path":"sprites/spr_zoimbie_reload/spr_zoimbie_reload.yy",},"order":3,},
+    {"id":{"name":"spr_player_reload","path":"sprites/spr_player_reload/spr_player_reload.yy",},"order":3,},
+    {"id":{"name":"spr_player_gun","path":"sprites/spr_player_gun/spr_player_gun.yy",},"order":0,},
+    {"id":{"name":"spr_zoimbie_machine","path":"sprites/spr_zoimbie_machine/spr_zoimbie_machine.yy",},"order":2,},
+    {"id":{"name":"spr_player_hold","path":"sprites/spr_player_hold/spr_player_hold.yy",},"order":1,},
+    {"id":{"name":"obj_monster","path":"objects/obj_monster/obj_monster.yy",},"order":1,},
+    {"id":{"name":"spr_player_stand","path":"sprites/spr_player_stand/spr_player_stand.yy",},"order":5,},
+    {"id":{"name":"spr_zoimbie_gun","path":"sprites/spr_zoimbie_gun/spr_zoimbie_gun.yy",},"order":0,},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -34,6 +49,8 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/spr_group_player.yy","order":6,"resourceVersion":"1.0","name":"spr_group_player","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/spr_group_monster.yy","order":7,"resourceVersion":"1.0","name":"spr_group_monster","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
